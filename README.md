@@ -18,7 +18,7 @@ Poté program bude čekat na jednotlivé zadání pro obrazce.
 Seznam obrazců a jejich parametrů:
 - Čára:
   - line pozice x1, pozice y1, pozice x2, pozice y2, červená, zelená, modrá, průhlednost
-    příklad:
+   - příklad:
   - line 10,10,100,100,255,0,0,255 - Červená čára z pozice (10,10) do pozice (100,100).
 - Obdelník:
   - rectangle pozice x, pozice y, šířka, výška, červená, zelená, modrá, průhlednost
